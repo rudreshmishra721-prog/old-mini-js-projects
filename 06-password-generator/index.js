@@ -103,4 +103,4 @@
             lucide.createIcons();
             generateBtn.click(); // Generate a password on page load
         });
-    
+    //updated
